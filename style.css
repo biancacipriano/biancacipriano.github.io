@@ -2,7 +2,7 @@ div {
 	border-radius: 5px;
 }
 
-#header {
+header {
 	z-index: 1;
 	position: fixed;
 	width: 97.5%;
@@ -12,7 +12,7 @@ div {
 	margin-bottom: 10px;
 }
 
-#name {
+name {
 	float:left;
 	margin-left: 5px;
 	padding-top: 5px;
@@ -71,8 +71,7 @@ a:hover {
 	background-color: #F4EBC3;
 	margin-bottom: 10px;
 }
-
-#footer {
+footer {
 	position: relative;
 	height: 50px;
 	background-color: #668284;
@@ -83,7 +82,7 @@ a:hover {
 	color: #ffffff;
 }
 
-#footer p {
+footer p {
 	position: relative;
 	padding-top: 15px;
 }
