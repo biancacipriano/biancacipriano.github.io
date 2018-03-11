@@ -10,6 +10,8 @@ body {
 }
 div{
     border-bottom: 6px solid blue;
+     width:30%;
+    height: 30 %;
 }
 
 header {
@@ -45,6 +47,5 @@ section p {
 
 section ul {
     list-style-type: circle;
-    width:30%;
-    height: 30 %;
+    
 }
