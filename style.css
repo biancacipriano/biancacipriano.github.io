@@ -19,8 +19,8 @@ header {
 
 img {
     border-radius: 55%;
-    img-width: 30 %;
-    img-height: 30 %;
+  width: 30 %;
+   height: 30 %;
 }
 header h1 {
     font-size: 20pt;
