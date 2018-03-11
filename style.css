@@ -45,4 +45,6 @@ section p {
 
 section ul {
     list-style-type: circle;
+    width:30%;
+    height: 30 %;
 }
