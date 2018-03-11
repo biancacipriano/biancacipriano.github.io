@@ -10,8 +10,6 @@ body {
 }
 div{
     border-bottom: 6px solid blue;
-     width: 30 %;
-   height: 30 %;
 }
 
 header {
@@ -20,9 +18,7 @@ header {
 }
 
 img {
-    border-radius: 55%;
-  width: 30 %;
-   height: 30 %;
+    border-radius: 30%;
 }
 header h1 {
     font-size: 20pt;
